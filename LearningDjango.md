@@ -43,3 +43,7 @@ Now to check these changes, execute below command in ssh , vagrant folder
 ```
 python manage.py runserver 0.0.0.0:8000
 ```
+You can now search for below in browser
+```
+http://127.0.0.1:8000
+```
